@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neslihan Karahüyük</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p><img src="C:\Users\nesli\Downloads\banner" alt="neslimanka" /></p>
+<p><img src="https://github.com/neslimanka/neslimanka/blob/main/banner.jpg" alt="neslimanka" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neslimanka&label=Profile%20views&color=0e75b6&style=flat" alt="neslimanka" /> </p>
 
 - 🔭 I’m currently working on [Asp.net MVC](https://github.com/neslimanka/Recurence/tree/main/vs03/kurumsalWeb)
