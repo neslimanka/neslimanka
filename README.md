@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neslihan Karahüyük</h1>
+<h1 align="center">👋</h1>
 
 
 <p><img src="https://github.com/neslimanka/neslimanka/blob/main/banner2.jpg" alt="neslimanka" /></p>
