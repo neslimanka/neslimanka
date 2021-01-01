@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **karahuyukneslihan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/neslimanka/NESLIHANKARAHUYUKCV/blob/master/Neslihan_Karah%C3%BCy%C3%BCk.pdf](https://github.com/neslimanka/NESLIHANKARAHUYUKCV/blob/master/Neslihan_Karah%C3%BCy%C3%BCk.pdf)
+- 📄 Know about my experiences [https://github.com/neslimanka/NESLIHANKARAHUYUKCV](https://github.com/neslimanka/NESLIHANKARAHUYUKCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
