@@ -2,7 +2,7 @@
 
 
 <p><img src="https://github.com/neslimanka/neslimanka/blob/main/banner2.jpg" alt="neslimanka" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neslimanka&label=Profile%20views&color=0e75b6&style=flat" alt="neslimanka" /> </p>
+
 
 - 🔭 I’m currently working on [Asp.net MVC](https://github.com/neslimanka/Recurence/tree/main/vs03/kurumsalWeb)
 
