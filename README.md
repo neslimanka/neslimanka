@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on [Asp.net MVC](https://github.com/neslimanka/Recurence/tree/main/vs03/kurumsalWeb)
+- 🔭 I’m currently working on [Angular Project](https://github.com/neslimanka/AngularProject)
 
 - 👨‍💻 All of my projects are available at [https://github.com/neslimanka](https://github.com/neslimanka)
 
