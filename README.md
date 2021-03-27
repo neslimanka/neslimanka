@@ -1,6 +1,9 @@
 <h1 align="center">👋</h1>
 
+[![](https://img.shields.io/badge/-Enis%20Mulić-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neslihankarahuyuk/)](https://www.linkedin.com/in/neslihankarahuyuk/)
+</br></br>
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 
