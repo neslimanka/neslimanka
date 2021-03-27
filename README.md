@@ -1,12 +1,9 @@
-<h5 align="center">👋</h5>
+<h3 align="center">👋</h3>
 
 [![](https://img.shields.io/badge/-Neslihan%20Karahüyük-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neslihankarahuyuk/)](https://www.linkedin.com/in/neslihankarahuyuk/)
 </br></br>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-
-
 
 - 🔭 I’m currently working on [Asp.net MVC](https://github.com/neslimanka/Recurence/tree/main/vs03/kurumsalWeb)
 
