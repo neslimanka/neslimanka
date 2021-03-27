@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **karahuyukneslihan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/neslimanka/NESLIHANKARAHUYUKCV](https://github.com/neslimanka/NESLIHANKARAHUYUKCV)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neslihankarahuyuk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/neslihankarahuyuk/" height="30" width="40" /></a>
