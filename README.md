@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@neslimanka](https://medium.com/@neslimanka)
 
-- 📫 How to reach me **karahuyukneslihan@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
