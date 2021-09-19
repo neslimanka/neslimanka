@@ -4,7 +4,7 @@
 </br></br>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img align="right" src="https://i.gifer.com/JXA0.gif" />
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/JXA0" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently working on [Angular Project](https://github.com/neslimanka/AngularProject)
 
