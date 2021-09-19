@@ -4,8 +4,8 @@
 </br></br>
 
 
-<img align="right" src="JXA0.gif" />
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="./marquee.svg" />
+<img align="left" src="JXA0.gif" />
+
 
 
 - 🔭 I’m currently working on [Angular Project](https://github.com/neslimanka/AngularProject)
