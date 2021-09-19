@@ -27,5 +27,7 @@
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&theme=react&count_private=true" alt="neslimanka" /></p>
 
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="./marquee.svg" />
+
 
 
