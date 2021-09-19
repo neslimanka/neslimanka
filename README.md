@@ -4,6 +4,7 @@
 </br></br>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://i.gifer.com/JXA0.gif" />
 
 - 🔭 I’m currently working on [Angular Project](https://github.com/neslimanka/AngularProject)
 
