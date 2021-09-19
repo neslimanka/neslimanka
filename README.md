@@ -4,7 +4,7 @@
 </br></br>
 
 
-<img align="left" src="JXA0.gif" />
+<img align="center" src="JXA0.gif" />
 
 
 
