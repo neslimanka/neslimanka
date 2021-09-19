@@ -3,7 +3,8 @@
 [![](https://img.shields.io/badge/-Neslihan%20Karahüyük-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neslihankarahuyuk/)](https://www.linkedin.com/in/neslihankarahuyuk/)
 </br></br>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/JXA0.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="JXA0.gif" />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./marquee.svg" />
 
 
