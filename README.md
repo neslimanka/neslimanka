@@ -1,6 +1,5 @@
 <h3 align="center">👋</h3>
 
-<h3 align="left">Connect with me:</h3>
 [![](https://img.shields.io/badge/-Neslihan%20Karahüyük-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neslihankarahuyuk/)](https://www.linkedin.com/in/neslihankarahuyuk/)
 </br></br>
 
