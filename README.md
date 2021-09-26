@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/neslimanka](https://github.com/neslimanka)
 
-- 📝 I regularly write articles on [https://medium.com/@neslimanka](https://medium.com/@neslimanka)
+
 
 
 
