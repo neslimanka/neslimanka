@@ -1,5 +1,6 @@
 <h3 align="center">👋</h3>
 
+<h3 align="left">Connect with me:</h3>
 [![](https://img.shields.io/badge/-Neslihan%20Karahüyük-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neslihankarahuyuk/)](https://www.linkedin.com/in/neslihankarahuyuk/)
 </br></br>
 
@@ -8,15 +9,6 @@
 
 
 
-- 🔭 I’m currently working on [JavaScript&React Project](https://github.com/neslimanka/Kodluyoruz)
-
-- 👨‍💻 All of my projects are available at [https://github.com/neslimanka](https://github.com/neslimanka)
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neslihankarahuyuk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/neslihankarahuyuk/" height="30" width="40" /></a>
 <a href="https://medium.com/@neslimanka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@neslimanka" height="30" width="40" /></a>
