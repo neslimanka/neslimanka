@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Angular Project](https://github.com/neslimanka/AngularProject)
+- 🔭 I’m currently working on [JavaScript&Rect Project](https://github.com/neslimanka/Kodluyoruz)
 
 - 👨‍💻 All of my projects are available at [https://github.com/neslimanka](https://github.com/neslimanka)
 
