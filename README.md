@@ -32,7 +32,7 @@
 
 </p>
 <br><br>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
@@ -65,7 +65,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <hr>
   <p align="center">
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
+ 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslimanka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
@@ -74,7 +74,7 @@
 | ![Neslihan Karahüyük Github Stats](https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&theme=tokyonight) | ![Neslihan Karahüyük GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslimanka&theme=tokyonight) 
-
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
 
 
 
