@@ -26,10 +26,10 @@
   <em>
     Hello, I am Neslihan Karahüyük, graduated from Fırat University Computer Engineering. 
      <br>
-    <b>I am passionate and self-learner./b> 
+    <b>I am passionate and self-learner.</b> 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -50,7 +50,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   
   
-  < <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
     <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -61,7 +61,6 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <hr>
   <p align="center">
@@ -69,13 +68,12 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslimanka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-[![Angularbeybisi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Angularbeybisi's github stats](https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&theme=tokyonight) | ![Angularbeybisi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Neslihan Karahüyük Github Stats](https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&theme=tokyonight) | ![Neslihan Karahüyük GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslimanka&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslimanka&theme=tokyonight) 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
