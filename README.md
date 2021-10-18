@@ -22,9 +22,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Neslihan Karahüyük, graduated from Fırat University Computer Engineering. 
-     <br>
-    <b>I am passionate and self-learner.</b> 
+ Hello, I am Neslihan Karahüyük, I am a graduate of Fırat University Computer Engineering.About the software
+I am a passionate and self-taught person
   </em> 
   <br>
 
@@ -46,11 +45,11 @@
 <p align="left">
   
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+ 
   
   
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
@@ -61,6 +60,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <hr>
   
   
