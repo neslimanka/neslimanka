@@ -71,11 +71,9 @@
 
 <hr>
 
-
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=neslimanka&theme=juicyfresh&no-bg=true" />
-
- 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=neslimanka&theme=juicyfresh&no-bg=true" /></p>
+ <hr>
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 | ![Neslihan Karahüyük Github Stats](https://github-readme-stats.vercel.app/api?username=neslimanka&show_icons=true&theme=tokyonight) | ![Neslihan Karahüyük GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
