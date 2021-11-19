@@ -40,7 +40,8 @@ I am a passionate and self-taught person
   
   
  
-  
+    ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
+  <p align="center">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
@@ -56,8 +57,7 @@ I am a passionate and self-taught person
   <hr>
   
   
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
-  <p align="center">
+
  
  <br>
 
