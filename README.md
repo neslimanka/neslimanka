@@ -31,15 +31,9 @@ I am a passionate and self-taught person
   <br>
 
 </p>
-<br><br>
-
-
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+<br>
+<br>
   
-  <br>
  
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
   <p align="center">
@@ -55,14 +49,9 @@ I am a passionate and self-taught person
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <hr>
-  
-  
-
+ 
  
  <br>
-
-<hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=neslimanka&theme=juicyfresh&no-bg=true" /></p>
