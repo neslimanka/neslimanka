@@ -38,9 +38,9 @@ I am a passionate and self-taught person
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  
+  <br>
  
-    ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=neslimanka&theme=gruvbox&hide_border=true&area=true)
   <p align="center">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
